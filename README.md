@@ -6,11 +6,9 @@
 
 ###  👨‍💻 Сейчас я...
 
-- 🎸 Довожу до ума очередь и облачную выгрузку в **Bocchi Downloader**
+- 🎸 Довожу до ума своего Telegram‑бота для загрузки музыки **Bocchi Downloader**
 - 🤖 Изучаю автоматизацию с Python и контейнеризацию (**Docker, Podman**)
 - 🔍 Исследую **Telegram Bot API**, **asyncio**, **Linux**
-
----
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="25"> Мои проекты
 
@@ -31,8 +29,6 @@
   </tr>
 </table>
 
----
-
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="25"> Стек технологий
 
 <table>
@@ -48,15 +44,11 @@
   </tr>
 </table>
 
----
-
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="25"> Статистика GitHub
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YaroslavGrud&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
-
----
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="25"> Активность
 
