@@ -30,7 +30,7 @@
 </table>
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="25"> Стек технологий
-
+<div align="center">
 <table>
   <tr>
     <td align="center" width="33%"><strong>Инструменты</strong></td>
@@ -43,14 +43,13 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=git,github,pycharm" /></td>
   </tr>
 </table>
+</div>
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="25"> Статистика GitHub
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YaroslavGrud&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
-
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="25"> Активность
 
 <p align="center">
   <picture>
