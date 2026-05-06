@@ -9,6 +9,7 @@
 - 🎸 Довожу до ума своего Telegram‑бота для загрузки музыки **Bocchi Downloader**
 - 🤖 Изучаю автоматизацию с Python и контейнеризацию (**Docker, Podman**)
 - 🔍 Исследую **Telegram Bot API**, **asyncio**, **Linux**
+- 🎮️ Обожаю играть в [OSU!](https://osu.ppy.sh/users/37548070)
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="25"> Мои проекты
 
