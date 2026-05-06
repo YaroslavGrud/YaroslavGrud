@@ -8,7 +8,7 @@
 
 - 🎸 Довожу до ума очередь и облачную выгрузку в **Bocchi Downloader**
 - 🤖 Изучаю автоматизацию с Python и контейнеризацию (**Docker, Podman**)
-- 💬 Отвечаю на вопросы про **Telegram Bot API**, **asyncio**, **Linux**
+- 🔍 Исследую **Telegram Bot API**, **asyncio**, **Linux**
 
 ---
 
@@ -25,6 +25,8 @@
     <td width="50%" valign="top">
       <h4>🧠 <a href="https://github.com/YaroslavGrud/NeiroStart_Answers">NeiroStart Answers</a></h4>
       <p>Коллекция решений курса по ИИ. Мой вклад в развитие сообщества.</p>
+      <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python" />
+      <img src="https://img.shields.io/github/stars/YaroslavGrud/NeiroStart_Answers?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -40,9 +42,9 @@
     <td align="center" width="33%"><strong>Среда</strong></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=py,bash,nginx,fastapi" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py,bash,nginx" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker,linux,githubactions" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,pycharm,vscode" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,pycharm" /></td>
   </tr>
 </table>
 
