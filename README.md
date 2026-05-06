@@ -1,49 +1,62 @@
-<h1 align="center">🐉 Yaroslav Grud / cloud & backend developer</h1>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
-</div>
 
-### 💡 Мои проекты
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f338/512.gif" width="32" height="32"> Hanako | Automation & Backend Explorer
 
-#### [Bocchi Downloader](https://github.com/YaroslavGrud/Bocchi-Downloader)
-Многопользовательский Telegram-бот для загрузки музыки с продвинутой очередью, автоудалением сообщений и выгрузкой больших треков в облако (Catbox, Litterbox).
+<div align="left">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaroslavGrud&repo=Bocchi-Downloader&show_owner=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/YaroslavGrud/Bocchi-Downloader)
+###  👨‍💻 Сейчас я...
 
-#### [NeiroStart_Answers](https://github.com/YaroslavGrud/NeiroStart_Answers)
-Сборник решений и домашних заданий для курса "НейроСтарт" по Python и ИИ. Этот проект — моя благодарность сообществу за ценные знания.
+- 🎸 Довожу до ума очередь и облачную выгрузку в **Bocchi Downloader**
+- 🤖 Изучаю автоматизацию с Python и контейнеризацию (**Docker, Podman**)
+- 💬 Отвечаю на вопросы про **Telegram Bot API**, **asyncio**, **Linux**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaroslavGrud&repo=NeiroStart_Answers&show_owner=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/YaroslavGrud/NeiroStart_Answers)
+---
 
-### 📊 Статистика GitHub
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="25"> Мои проекты
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎵 <a href="https://github.com/YaroslavGrud/Bocchi-Downloader">Bocchi Downloader</a></h4>
+      <p>Telegram‑бот для загрузки музыки с очередью, автоудалением и выгрузкой больших файлов в облако (Catbox).</p>
+      <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python" />
+      <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 <a href="https://github.com/YaroslavGrud/NeiroStart_Answers">NeiroStart Answers</a></h4>
+      <p>Коллекция решений курса по ИИ. Мой вклад в развитие сообщества.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="25"> Стек технологий
+
+<table>
+  <tr>
+    <td align="center" width="33%"><strong>Инструменты</strong></td>
+    <td align="center" width="33%"><strong>DevOps</strong></td>
+    <td align="center" width="33%"><strong>Среда</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py,bash,nginx,fastapi" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker,linux,githubactions" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,pycharm,vscode" /></td>
+  </tr>
+</table>
+
+---
+
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="25"> Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YaroslavGrud&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavGrud&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e" alt="Top Languages" height="165">
+  <img src="https://github-profile-trophy.vercel.app/?username=YaroslavGrud&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YaroslavGrud&theme=radical&no-frame=true&no-bg=true&margin-w=4">
-</p>
+---
 
-### 🐍 Змейка вкладов
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="25"> Активность
 
 <p align="center">
   <picture>
@@ -54,5 +67,8 @@
 </p>
 
 <p align="center">
-  <i>Надеюсь, мои проекты будут вам полезны. Хорошего кода! 🌸</i>
+  <i>Надеюсь, мои проекты будут вам полезны. Хорошего настроения! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f338/512.gif" width="18"></i>
 </p>
+
+</div>
+</div>
