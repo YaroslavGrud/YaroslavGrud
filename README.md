@@ -7,7 +7,7 @@
 ###  👨‍💻 Сейчас я...
 
 - 🎸 Довожу до ума своего Telegram‑бота для загрузки музыки **[Bocchi Downloader](https://github.com/YaroslavGrud/Bocchi-Downloader)**
-- 🤖 Изучаю автоматизацию с Python и контейнеризацию (**Docker, Podman**)
+- 🤖 Изучаю автоматизацию с Python и контейнеризацию
 - 🔍 Исследую **Telegram Bot API**, **asyncio**, **Linux**
 - 🎮️ Обожаю играть в [OSU!](https://osu.ppy.sh/users/37548070)
 
