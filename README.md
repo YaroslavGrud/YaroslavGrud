@@ -35,7 +35,7 @@
 
 | Языки / скрипты | Веб / фронтенд | Платформы / ОС |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=py,powershell,bash" height="45"> | <img src="https://skillicons.dev/icons?i=nginx,css,html" height="45"> | <img src="https://skillicons.dev/icons?i=ubuntu,windows,raspberrypi" height="45"> |
+| <img src="https://skillicons.dev/icons?i=py,powershell,bash" height="45"> | <img src="https://skillicons.dev/icons?i=nginx,css,html" height="45"> | <img src="https://skillicons.dev/icons?i=ubuntu,windows,raspberrypi" height="45"> <img src="https://raw.githubusercontent.com/YaroslavGrud/YaroslavGrud/Yaroslav_grud/Android%20Icon.svg" height="45"> |
 
 | Автоматизация | Среда | Интеграции |
 | :---: | :---: | :---: |
