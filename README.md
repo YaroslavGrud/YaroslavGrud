@@ -46,7 +46,7 @@
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="25"> Статистика GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YaroslavGrud&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=YaroslavGrud&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 <p align="center">
