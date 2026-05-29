@@ -33,9 +33,13 @@
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="25"> Стек технологий
 <div align="center">
 
-| Языки / скрипты | Веб / фронтенд | Платформы / ОС | Автоматизация | Среда | Интеграции |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=py,powershell,bash" height="40" /> | <img src="https://skillicons.dev/icons?i=nginx,css,html" height="40" /> | <img src="https://skillicons.dev/icons?i=ubuntu,windows,raspberrypi" height="40" /> | <img src="https://skillicons.dev/icons?i=docker,githubactions" height="40" /> | <img src="https://skillicons.dev/icons?i=git,github,pycharm" height="40" /> | <img src="https://yastatic.net/s3/doc-binary/src/mediaservices/yandex_music_icon_ru_circle.svg" height="40" style="vertical-align: middle;" /> <img src="https://www.svgrepo.com/show/452115/telegram.svg" height="40" style="vertical-align: middle;" /> |
+| Языки / скрипты | Веб / фронтенд | Платформы / ОС |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=py,powershell,bash" height="45"> | <img src="https://skillicons.dev/icons?i=nginx,css,html" height="45"> | <img src="https://skillicons.dev/icons?i=ubuntu,windows,raspberrypi" height="45"> |
+
+| Автоматизация | Среда | Интеграции |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=docker,githubactions" height="45"> | <img src="https://skillicons.dev/icons?i=git,github,pycharm" height="45"> | <img src="https://yastatic.net/s3/doc-binary/src/mediaservices/yandex_music_icon_ru_circle.svg" height="45" style="margin:0 4px;"> <img src="https://www.svgrepo.com/show/452115/telegram.svg" height="45" style="margin:0 4px;"> |
 
 </div>
 
