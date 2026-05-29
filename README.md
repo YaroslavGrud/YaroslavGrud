@@ -32,18 +32,11 @@
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="25"> Стек технологий
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%"><strong>Инструменты</strong></td>
-    <td align="center" width="33%"><strong>DevOps</strong></td>
-    <td align="center" width="33%"><strong>Среда</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=py,powershell,bash,nginx" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker,linux,githubactions" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,pycharm" /></td>
-  </tr>
-</table>
+
+| Языки / скрипты | Веб / фронтенд | Платформы / ОС | Автоматизация | Среда |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=py,powershell,bash" /> | <img src="https://skillicons.dev/icons?i=nginx,css,html" /> | <img src="https://skillicons.dev/icons?i=ubuntu,windows,raspberrypi" /> | <img src="https://skillicons.dev/icons?i=docker,githubactions" /> | <img src="https://skillicons.dev/icons?i=git,github,pycharm" /> |
+
 </div>
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="25"> Статистика GitHub
