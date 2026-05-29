@@ -39,7 +39,7 @@
     <td align="center" width="33%"><strong>Среда</strong></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=py,bash,nginx" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py,powershell,bash,nginx" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker,linux,githubactions" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git,github,pycharm" /></td>
   </tr>
